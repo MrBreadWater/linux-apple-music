@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Apple Music
+Name[en_US]=Apple Music
+Comment=Unofficial Apple Music Electron App for Linux
+Exec="/home/michael/linux-apple-music/AppleMusic/AppleMusic"
+Terminal=false
+Categories=Utility;Audio;
+Type=Application
+Icon=/home/michael/linux-apple-music/icon.png
+StartupWMClass=AppleMusic
