@@ -6,7 +6,9 @@ After seeing [puneetsl's Lotion repository](https://github.com/puneetsl/lotion),
 
 Screenshot:
 
-![]()
+![](Screenshot.png)
+
+*Note: The transparency is not part of the app, it's from the compton-tyrone compositor.
 
 # Installation
 
